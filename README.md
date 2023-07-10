@@ -22,15 +22,15 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 ===========================================
 
 Tasks:
-1. The project should take input of two complex numbers.
-2. The program should output the absolute value and argument of the complex number.
-2. The user should have the authority of doing operations on whichever Complex number he/she want.
+1. The program will take input of two complex numbers.
+2. Then you will have access to a lot of operations.
 3. The user operations are:
     ->adding two Complex Numbers
     ->subtracting two Complex Numbers
     ->multipyling two Complex Numbers
     ->dividing two Complex Numbers
     ->finding absolute of Complex Numbers
-4. exit.
+    ->update the complex numbers
+4. exit
 
 ===========================================
