@@ -1,4 +1,4 @@
-README.txt
+README.md
 ===========================================
 # Project Name : Complex_Numbers
 ===========================================
@@ -6,21 +6,21 @@ README.txt
 Description:
 This project is a library for complex number operations in C.
 
-Author:
-Vivek Kumar
-1st Year Student @IISER Bhopal
+# Author:
+Vivek Kumar.
+1st Year Student @IISER Bhopal.
 
-Date:
+# Date:
 July 4, 2023
 
 Copyright (c) 2023 Vivek Kumar 
 
-License:
+# License:
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
 ===========================================
 
-Tasks:
+# Tasks:
 1. The program will take input of two complex numbers.
 2. Then you will have access to a lot of operations.
 3. The user operations are:
